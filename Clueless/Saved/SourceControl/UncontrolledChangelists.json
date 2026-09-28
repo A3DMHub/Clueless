@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/temp/Clueless/Clueless/Content/Level/L_Menu.umap"
+				"C:/temp/Clueless/Clueless/Content/Level/L_Menu.umap",
+				"C:/temp/Clueless/Clueless/Content/interface/BPI_Interact.uasset",
+				"C:/temp/Clueless/Clueless/Content/blueprints/BP_Interactable.uasset",
+				"C:/temp/Clueless/Clueless/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
