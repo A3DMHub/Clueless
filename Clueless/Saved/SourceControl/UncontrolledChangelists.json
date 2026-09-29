@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Clueless/Clueless/Content/Project_Images/Prototype_one_office.uasset",
+				"D:/GitHub/Clueless/Clueless/Content/Project_Images/Prototype_one_office_no_desk.uasset",
+				"D:/GitHub/Clueless/Clueless/Content/Project_Images/Suspect_Alpha.uasset",
+				"D:/GitHub/Clueless/Clueless/Content/Project_Images/Suspect_Beta.uasset",
+				"D:/GitHub/Clueless/Clueless/Content/UI/WBP_SuspectStatements.uasset",
+				"D:/GitHub/Clueless/Clueless/Content/UI/WBP_DetectiveMenu.uasset",
+				"D:/GitHub/Clueless/Clueless/Content/UI/WBP_DetectiveVN.uasset",
 				"C:/temp/Clueless/Clueless/Content/Level/L_Menu.umap"
 			]
 		}
