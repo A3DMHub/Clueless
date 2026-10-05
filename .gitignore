@@ -73,3 +73,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal Engine build and temporary directories
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Binaries/
+**/Build/
+
+# Visual Studio / IDE temporary files
+**/.vs/
+**/.idea/
+*.sln
